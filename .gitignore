@@ -1,0 +1,25 @@
+# Ambiente Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados gerados (scraping) — não versionar CSVs de notícias
+noticias/*.csv
+
+# Logs
+logs/
+*.log
+
+# macOS / editor
+.DS_Store
+*.swp
+.idea/

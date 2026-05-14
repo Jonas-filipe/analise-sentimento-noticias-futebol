@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>br.jonas.noticias.futebol</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/jonas/Desktop/Projeto Futebol/.venv/bin/python</string>
+        <string>news_scrapping_v2.py</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>/Users/jonas/Desktop/Projeto Futebol</string>
+    <key>StartInterval</key>
+    <integer>86400</integer>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StandardOutPath</key>
+    <string>/Users/jonas/Desktop/Projeto Futebol/noticias.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/jonas/Desktop/Projeto Futebol/erros.log</string>
+</dict>
+</plist>
