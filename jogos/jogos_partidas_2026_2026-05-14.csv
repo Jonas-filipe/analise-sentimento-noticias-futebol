@@ -1,0 +1,298 @@
+data,data_original,hora,competicao,mandante,visitante,gols_mandante,gols_visitante,placar,status,id_partida,link,fonte,clubes_monitorados
+2026-01-10,"Sat, Jan 10",,Brazilian Campeonato Paulista,Portuguesa,Palmeiras,0,1,0 - 1,FT,762074,https://www.espn.com/soccer/match/_/gameId/762074/palmeiras-portuguesa,ESPN,Palmeiras
+2026-01-10,"Sat, Jan 10",,Brazilian Campeonato Paulista,Santos,Novorizontino,2,1,2 - 1,FT,762073,https://www.espn.com/soccer/match/_/gameId/762073/novorizontino-santos,ESPN,Santos
+2026-01-11,"Sun, Jan 11",,Brazilian Campeonato Paulista,Corinthians,Ponte Preta,3,0,3 - 0,FT,762068,https://www.espn.com/soccer/match/_/gameId/762068/ponte-preta-corinthians,ESPN,Corinthians
+2026-01-11,"Sun, Jan 11",,Brazilian Campeonato Carioca,Flamengo,Portuguesa-RJ,1,1,1 - 1,FT,751664,https://www.espn.com/soccer/match/_/gameId/751664/portuguesa-rj-flamengo,ESPN,Flamengo
+2026-01-11,"Sun, Jan 11",,Brazilian Campeonato Paulista,Mirassol,São Paulo,3,0,3 - 0,FT,762069,https://www.espn.com/soccer/match/_/gameId/762069/sao-paulo-mirassol,ESPN,São Paulo
+2026-01-14,"Wed, Jan 14",,Brazilian Campeonato Carioca,Bangu,Flamengo,2,1,2 - 1,FT,751642,https://www.espn.com/soccer/match/_/gameId/751642/flamengo-bangu,ESPN,Flamengo
+2026-01-14,"Wed, Jan 14",,Brazilian Campeonato Paulista,Palmeiras,Santos,1,0,1 - 0,FT,762079,https://www.espn.com/soccer/match/_/gameId/762079/santos-palmeiras,ESPN,Palmeiras; Santos
+2026-01-15,"Thu, Jan 15",,Brazilian Campeonato Paulista,Red Bull Bragantino,Corinthians,3,0,3 - 0,FT,762077,https://www.espn.com/soccer/match/_/gameId/762077/corinthians-red-bull-bragantino,ESPN,Corinthians
+2026-01-15,"Thu, Jan 15",,Brazilian Campeonato Paulista,São Paulo,São Bernardo,1,0,1 - 0,FT,762078,https://www.espn.com/soccer/match/_/gameId/762078/sao-bernardo-sao-paulo,ESPN,São Paulo
+2026-01-15,"Thu, Jan 15",,Brazilian Campeonato Carioca,Vasco da Gama,Maricá,4,2,4 - 2,FT,751643,https://www.espn.com/soccer/match/_/gameId/751643/marica-vasco-da-gama,ESPN,Vasco
+2026-01-17,"Sat, Jan 17",,Brazilian Campeonato Paulista,Palmeiras,Mirassol,1,0,1 - 0,FT,762088,https://www.espn.com/soccer/match/_/gameId/762088/mirassol-palmeiras,ESPN,Palmeiras
+2026-01-17,"Sat, Jan 17",,Brazilian Campeonato Carioca,Volta Redonda,Flamengo,3,0,3 - 0,FT,751650,https://www.espn.com/soccer/match/_/gameId/751650/flamengo-volta-redonda,ESPN,Flamengo
+2026-01-18,"Sun, Jan 18",,Brazilian Campeonato Paulista,Corinthians,São Paulo,1,1,1 - 1,FT,762085,https://www.espn.com/soccer/match/_/gameId/762085/sao-paulo-corinthians,ESPN,Corinthians; São Paulo
+2026-01-18,"Sun, Jan 18",,Brazilian Campeonato Paulista,Guarani,Santos,1,1,1 - 1,FT,762084,https://www.espn.com/soccer/match/_/gameId/762084/santos-guarani,ESPN,Santos
+2026-01-18,"Sun, Jan 18",,Brazilian Campeonato Carioca,Vasco da Gama,Nova Iguaçu,0,0,0 - 0,FT,751649,https://www.espn.com/soccer/match/_/gameId/751649/nova-iguacu-vasco-da-gama,ESPN,Vasco
+2026-01-20,"Tue, Jan 20",,Brazilian Campeonato Paulista,Novorizontino,Palmeiras,4,0,4 - 0,FT,762096,https://www.espn.com/soccer/match/_/gameId/762096/palmeiras-novorizontino,ESPN,Palmeiras
+2026-01-21,"Wed, Jan 21",,Brazilian Campeonato Carioca,Flamengo,Vasco da Gama,1,0,1 - 0,FT,751653,https://www.espn.com/soccer/match/_/gameId/751653/vasco-da-gama-flamengo,ESPN,Flamengo; Vasco
+2026-01-21,"Wed, Jan 21",,Brazilian Campeonato Paulista,São Paulo,Portuguesa,2,3,2 - 3,FT,762098,https://www.espn.com/soccer/match/_/gameId/762098/portuguesa-sao-paulo,ESPN,São Paulo
+2026-01-22,"Thu, Jan 22",,Brazilian Campeonato Paulista,Santos,Corinthians,1,1,1 - 1,FT,762097,https://www.espn.com/soccer/match/_/gameId/762097/corinthians-santos,ESPN,Corinthians; Santos
+2026-01-24,"Sat, Jan 24",,Brazilian Campeonato Paulista,Palmeiras,São Paulo,3,1,3 - 1,FT,762102,https://www.espn.com/soccer/match/_/gameId/762102/sao-paulo-palmeiras,ESPN,Palmeiras; São Paulo
+2026-01-25,"Sun, Jan 25",,Brazilian Campeonato Paulista,AE Velo Clube,Corinthians,0,1,0 - 1,FT,762100,https://www.espn.com/soccer/match/_/gameId/762100/corinthians-ae-velo-clube,ESPN,Corinthians
+2026-01-25,"Sun, Jan 25",,Brazilian Campeonato Carioca,Boavista,Vasco da Gama,0,3,0 - 3,FT,751657,https://www.espn.com/soccer/match/_/gameId/751657/vasco-da-gama-boavista,ESPN,Vasco
+2026-01-25,"Sun, Jan 25",,Brazilian Campeonato Carioca,Fluminense,Flamengo,2,1,2 - 1,FT,751659,https://www.espn.com/soccer/match/_/gameId/751659/flamengo-fluminense,ESPN,Flamengo
+2026-01-25,"Sun, Jan 25",,Brazilian Campeonato Paulista,Santos,Red Bull Bragantino,0,0,0 - 0,FT,762105,https://www.espn.com/soccer/match/_/gameId/762105/red-bull-bragantino-santos,ESPN,Santos
+2026-01-28,"Wed, Jan 28",,Brazilian Serie A,Atlético-MG,Palmeiras,2,2,2 - 2,FT,401840808,https://www.espn.com/soccer/match/_/gameId/401840808/palmeiras-atletico-mg,ESPN,Palmeiras
+2026-01-28,"Wed, Jan 28",,Brazilian Serie A,Chapecoense,Santos,4,2,4 - 2,FT,401840810,https://www.espn.com/soccer/match/_/gameId/401840810/santos-chapecoense,ESPN,Santos
+2026-01-28,"Wed, Jan 28",,Brazilian Serie A,Corinthians,Bahia,1,2,1 - 2,FT,401840811,https://www.espn.com/soccer/match/_/gameId/401840811/bahia-corinthians,ESPN,Corinthians
+2026-01-28,"Wed, Jan 28",,Brazilian Serie A,São Paulo,Flamengo,2,1,2 - 1,FT,401840976,https://www.espn.com/soccer/match/_/gameId/401840976/flamengo-sao-paulo,ESPN,Flamengo; São Paulo
+2026-01-29,"Thu, Jan 29",,Brazilian Serie A,Mirassol,Vasco da Gama,2,1,2 - 1,FT,401840975,https://www.espn.com/soccer/match/_/gameId/401840975/vasco-da-gama-mirassol,ESPN,Vasco
+2026-01-31,"Sat, Jan 31",,Brazilian Campeonato Paulista,São Paulo,Santos,2,0,2 - 0,FT,762112,https://www.espn.com/soccer/match/_/gameId/762112/santos-sao-paulo,ESPN,Santos; São Paulo
+2026-02-01,"Sun, Feb 1",,Brazilian Campeonato Paulista,Botafogo-SP,Palmeiras,1,0,1 - 0,FT,762111,https://www.espn.com/soccer/match/_/gameId/762111/palmeiras-botafogo-sp,ESPN,Palmeiras
+2026-02-01,"Sun, Feb 1",,Brazilian Supercopa Rei,Flamengo,Corinthians,0,2,0 - 2,FT,401844263,https://www.espn.com/soccer/match/_/gameId/401844263/corinthians-flamengo,ESPN,Corinthians; Flamengo
+2026-02-02,"Mon, Feb 2",,Brazilian Campeonato Carioca,Madureira,Vasco da Gama,0,0,0 - 0,FT,751665,https://www.espn.com/soccer/match/_/gameId/751665/vasco-da-gama-madureira,ESPN,Vasco
+2026-02-04,"Wed, Feb 4",,Brazilian Serie A,Flamengo,Internacional,1,1,1 - 1,FT,401840978,https://www.espn.com/soccer/match/_/gameId/401840978/internacional-flamengo,ESPN,Flamengo
+2026-02-04,"Wed, Feb 4",,Brazilian Serie A,Palmeiras,Vitória,5,1,5 - 1,FT,401840983,https://www.espn.com/soccer/match/_/gameId/401840983/vitoria-palmeiras,ESPN,Palmeiras
+2026-02-04,"Wed, Feb 4",,Brazilian Serie A,Santos,São Paulo,1,1,1 - 1,FT,401840986,https://www.espn.com/soccer/match/_/gameId/401840986/sao-paulo-santos,ESPN,Santos; São Paulo
+2026-02-05,"Thu, Feb 5",,Brazilian Campeonato Paulista,Corinthians,Capivariano,3,0,3 - 0,FT,762113,https://www.espn.com/soccer/match/_/gameId/762113/capivariano-corinthians,ESPN,Corinthians
+2026-02-05,"Thu, Feb 5",,Brazilian Serie A,Vasco da Gama,Chapecoense,1,1,1 - 1,FT,401840982,https://www.espn.com/soccer/match/_/gameId/401840982/chapecoense-vasco-da-gama,ESPN,Vasco
+2026-02-07,"Sat, Feb 7",,Brazilian Campeonato Carioca,Flamengo,Sampaio Correa RJ,7,1,7 - 1,FT,751669,https://www.espn.com/soccer/match/_/gameId/751669/sampaio-correa-rj-flamengo,ESPN,Flamengo
+2026-02-07,"Sat, Feb 7",,Brazilian Campeonato Paulista,São Paulo,Primavera SP,2,1,2 - 1,FT,762115,https://www.espn.com/soccer/match/_/gameId/762115/primavera-sp-sao-paulo,ESPN,São Paulo
+2026-02-08,"Sun, Feb 8",,Brazilian Campeonato Paulista,Corinthians,Palmeiras,0,1,0 - 1,FT,762121,https://www.espn.com/soccer/match/_/gameId/762121/palmeiras-corinthians,ESPN,Corinthians; Palmeiras
+2026-02-08,"Sun, Feb 8",,Brazilian Campeonato Paulista,EC Noroeste,Santos,1,2,1 - 2,FT,762117,https://www.espn.com/soccer/match/_/gameId/762117/santos-ec-noroeste,ESPN,Santos
+2026-02-08,"Sun, Feb 8",,Brazilian Campeonato Carioca,Vasco da Gama,Botafogo,2,0,2 - 0,FT,751673,https://www.espn.com/soccer/match/_/gameId/751673/botafogo-vasco-da-gama,ESPN,Vasco
+2026-02-10,"Tue, Feb 10",,Brazilian Serie A,Vitória,Flamengo,1,2,1 - 2,FT,401840993,https://www.espn.com/soccer/match/_/gameId/401840993/flamengo-vitoria,ESPN,Flamengo
+2026-02-11,"Wed, Feb 11",,Brazilian Serie A,São Paulo,Grêmio,2,0,2 - 0,FT,401840995,https://www.espn.com/soccer/match/_/gameId/401840995/gremio-sao-paulo,ESPN,São Paulo
+2026-02-11,"Wed, Feb 11",,Brazilian Serie A,Vasco da Gama,Bahia,0,1,0 - 1,FT,401840994,https://www.espn.com/soccer/match/_/gameId/401840994/bahia-vasco-da-gama,ESPN,Vasco
+2026-02-12,"Thu, Feb 12",,Brazilian Serie A,Athletico Paranaense,Santos,2,1,2 - 1,FT,401840991,https://www.espn.com/soccer/match/_/gameId/401840991/santos-athletico-paranaense,ESPN,Santos
+2026-02-12,"Thu, Feb 12",,Brazilian Serie A,Corinthians,Red Bull Bragantino,2,0,2 - 0,FT,401840988,https://www.espn.com/soccer/match/_/gameId/401840988/red-bull-bragantino-corinthians,ESPN,Corinthians
+2026-02-12,"Thu, Feb 12",,Brazilian Serie A,Internacional,Palmeiras,1,3,1 - 3,FT,401840997,https://www.espn.com/soccer/match/_/gameId/401840997/palmeiras-internacional,ESPN,Palmeiras
+2026-02-14,"Sat, Feb 14",,Brazilian Campeonato Carioca,Vasco da Gama,Volta Redonda,1,1,1 - 1 Vasco da Gama wins 5-3 on Penalty Kicks,FT-Pens,401860540,https://www.espn.com/soccer/match/_/gameId/401860540/volta-redonda-vasco-da-gama,ESPN,Vasco
+2026-02-15,"Sun, Feb 15",,Brazilian Campeonato Carioca,Botafogo,Flamengo,1,2,1 - 2,FT,401860444,https://www.espn.com/soccer/match/_/gameId/401860444/flamengo-botafogo,ESPN,Flamengo
+2026-02-15,"Sun, Feb 15",,Brazilian Campeonato Paulista,Palmeiras,Guarani,1,1,1 - 1,FT,762129,https://www.espn.com/soccer/match/_/gameId/762129/guarani-palmeiras,ESPN,Palmeiras
+2026-02-15,"Sun, Feb 15",,Brazilian Campeonato Paulista,Ponte Preta,São Paulo,1,2,1 - 2,FT,762124,https://www.espn.com/soccer/match/_/gameId/762124/sao-paulo-ponte-preta,ESPN,São Paulo
+2026-02-15,"Sun, Feb 15",,Brazilian Campeonato Paulista,Santos,AE Velo Clube,6,0,6 - 0,FT,762126,https://www.espn.com/soccer/match/_/gameId/762126/ae-velo-clube-santos,ESPN,Santos
+2026-02-15,"Sun, Feb 15",,Brazilian Campeonato Paulista,São Bernardo,Corinthians,0,1,0 - 1,FT,762127,https://www.espn.com/soccer/match/_/gameId/762127/corinthians-sao-bernardo,ESPN,Corinthians
+2026-02-19,"Thu, Feb 19",,Brazilian Serie A,Athletico Paranaense,Corinthians,0,1,0 - 1,FT,401840981,https://www.espn.com/soccer/match/_/gameId/401840981/corinthians-athletico-paranaense,ESPN,Corinthians
+2026-02-19,"Thu, Feb 19",,CONMEBOL Recopa,Lanús,Flamengo,1,0,1 - 0 1st Leg,FT,762261,https://www.espn.com/soccer/match/_/gameId/762261/flamengo-lanus,ESPN,Flamengo
+2026-02-21,"Sat, Feb 21",,Brazilian Campeonato Paulista,Palmeiras,Capivariano,4,0,4 - 0,FT,401861578,https://www.espn.com/soccer/match/_/gameId/401861578/capivariano-palmeiras,ESPN,Palmeiras
+2026-02-21,"Sat, Feb 21",,Brazilian Campeonato Paulista,Red Bull Bragantino,São Paulo,1,2,1 - 2,FT,401861580,https://www.espn.com/soccer/match/_/gameId/401861580/sao-paulo-red-bull-bragantino,ESPN,São Paulo
+2026-02-22,"Sun, Feb 22",,Brazilian Campeonato Carioca,Flamengo,Madureira,3,0,3 - 0 1st Leg,FT,401861654,https://www.espn.com/soccer/match/_/gameId/401861654/madureira-flamengo,ESPN,Flamengo
+2026-02-22,"Sun, Feb 22",,Brazilian Campeonato Paulista,Novorizontino,Santos,2,1,2 - 1,FT,401861579,https://www.espn.com/soccer/match/_/gameId/401861579/santos-novorizontino,ESPN,Santos
+2026-02-22,"Sun, Feb 22",,Brazilian Campeonato Paulista,Portuguesa,Corinthians,1,1,1 - 1 Corinthians wins 8-7 on Penalty Kicks,FT-Pens,401861577,https://www.espn.com/soccer/match/_/gameId/401861577/corinthians-portuguesa,ESPN,Corinthians
+2026-02-22,"Sun, Feb 22",,Brazilian Campeonato Carioca,Vasco da Gama,Fluminense,0,1,0 - 1 1st Leg,FT,401861655,https://www.espn.com/soccer/match/_/gameId/401861655/fluminense-vasco-da-gama,ESPN,Vasco
+2026-02-25,"Wed, Feb 25",,Brazilian Serie A,Coritiba,São Paulo,0,1,0 - 1,FT,401841000,https://www.espn.com/soccer/match/_/gameId/401841000/sao-paulo-coritiba,ESPN,São Paulo
+2026-02-25,"Wed, Feb 25",,Brazilian Serie A,Cruzeiro,Corinthians,1,1,1 - 1,FT,401841001,https://www.espn.com/soccer/match/_/gameId/401841001/corinthians-cruzeiro,ESPN,Corinthians
+2026-02-25,"Wed, Feb 25",,Brazilian Serie A,Palmeiras,Fluminense,2,1,2 - 1,FT,401841004,https://www.espn.com/soccer/match/_/gameId/401841004/fluminense-palmeiras,ESPN,Palmeiras
+2026-02-26,"Thu, Feb 26",,CONMEBOL Recopa,Flamengo,Lanús,2,3,2 - 3 2nd Leg · Lanús wins 4-2 on aggregate,AET,762262,https://www.espn.com/soccer/match/_/gameId/762262/lanus-flamengo,ESPN,Flamengo
+2026-02-26,"Thu, Feb 26",,Brazilian Serie A,Santos,Vasco da Gama,2,1,2 - 1,FT,401841002,https://www.espn.com/soccer/match/_/gameId/401841002/vasco-da-gama-santos,ESPN,Santos; Vasco
+2026-02-28,"Sat, Feb 28",,Brazilian Campeonato Paulista,Novorizontino,Corinthians,1,0,1 - 0,FT,401862316,https://www.espn.com/soccer/match/_/gameId/401862316/corinthians-novorizontino,ESPN,Corinthians
+2026-03-01,"Sun, Mar 1",,Brazilian Campeonato Carioca,Fluminense,Vasco da Gama,1,1,1 - 1 2nd Leg · Fluminense wins 2-1 on aggregate,FT,401861658,https://www.espn.com/soccer/match/_/gameId/401861658/vasco-da-gama-fluminense,ESPN,Vasco
+2026-03-01,"Sun, Mar 1",,Brazilian Campeonato Paulista,Palmeiras,São Paulo,2,1,2 - 1,FT,401862317,https://www.espn.com/soccer/match/_/gameId/401862317/sao-paulo-palmeiras,ESPN,Palmeiras; São Paulo
+2026-03-02,"Mon, Mar 2",,Brazilian Campeonato Carioca,Madureira,Flamengo,0,8,0 - 8 2nd Leg,FT,401861659,https://www.espn.com/soccer/match/_/gameId/401861659/flamengo-madureira,ESPN,Flamengo
+2026-03-04,"Wed, Mar 4",,Brazilian Campeonato Paulista,Palmeiras,Novorizontino,1,0,1 - 0 1st Leg,FT,401863163,https://www.espn.com/soccer/match/_/gameId/401863163/novorizontino-palmeiras,ESPN,Palmeiras
+2026-03-08,"Sun, Mar 8",,Brazilian Campeonato Carioca,Fluminense,Flamengo,0,0,0 - 0 Flamengo wins 5-4 on Penalty Kicks,FT-Pens,401863456,https://www.espn.com/soccer/match/_/gameId/401863456/flamengo-fluminense,ESPN,Flamengo
+2026-03-08,"Sun, Mar 8",,Brazilian Campeonato Paulista,Novorizontino,Palmeiras,1,2,1 - 2 2nd Leg · Palmeiras wins 3-1 on aggregate,FT,401863164,https://www.espn.com/soccer/match/_/gameId/401863164/palmeiras-novorizontino,ESPN,Palmeiras
+2026-03-10,"Tue, Mar 10",,Brazilian Serie A,Mirassol,Santos,2,2,2 - 2,FT,401841010,https://www.espn.com/soccer/match/_/gameId/401841010/santos-mirassol,ESPN,Santos
+2026-03-11,"Wed, Mar 11",,Brazilian Serie A,Corinthians,Coritiba,0,2,0 - 2,FT,401841013,https://www.espn.com/soccer/match/_/gameId/401841013/coritiba-corinthians,ESPN,Corinthians
+2026-03-11,"Wed, Mar 11",,Brazilian Serie A,Flamengo,Cruzeiro,2,0,2 - 0,FT,401841017,https://www.espn.com/soccer/match/_/gameId/401841017/cruzeiro-flamengo,ESPN,Flamengo
+2026-03-12,"Thu, Mar 12",,Brazilian Serie A,São Paulo,Chapecoense,2,0,2 - 0,FT,401841008,https://www.espn.com/soccer/match/_/gameId/401841008/chapecoense-sao-paulo,ESPN,São Paulo
+2026-03-12,"Thu, Mar 12",,Brazilian Serie A,Vasco da Gama,Palmeiras,2,1,2 - 1,FT,401841012,https://www.espn.com/soccer/match/_/gameId/401841012/palmeiras-vasco-da-gama,ESPN,Palmeiras; Vasco
+2026-03-14,"Sat, Mar 14",,Brazilian Serie A,Botafogo,Flamengo,0,3,0 - 3,FT,401841026,https://www.espn.com/soccer/match/_/gameId/401841026/flamengo-botafogo,ESPN,Flamengo
+2026-03-15,"Sun, Mar 15",,Brazilian Serie A,Cruzeiro,Vasco da Gama,3,3,3 - 3,FT,401841023,https://www.espn.com/soccer/match/_/gameId/401841023/vasco-da-gama-cruzeiro,ESPN,Vasco
+2026-03-15,"Sun, Mar 15",,Brazilian Serie A,Palmeiras,Mirassol,1,0,1 - 0,FT,401841020,https://www.espn.com/soccer/match/_/gameId/401841020/mirassol-palmeiras,ESPN,Palmeiras
+2026-03-15,"Sun, Mar 15",,Brazilian Serie A,Red Bull Bragantino,São Paulo,1,2,1 - 2,FT,401841019,https://www.espn.com/soccer/match/_/gameId/401841019/sao-paulo-red-bull-bragantino,ESPN,São Paulo
+2026-03-15,"Sun, Mar 15",,Brazilian Serie A,Santos,Corinthians,1,1,1 - 1,FT,401841018,https://www.espn.com/soccer/match/_/gameId/401841018/corinthians-santos,ESPN,Corinthians; Santos
+2026-03-18,"Wed, Mar 18",,Brazilian Serie A,Atlético-MG,São Paulo,1,0,1 - 0,FT,401841029,https://www.espn.com/soccer/match/_/gameId/401841029/sao-paulo-atletico-mg,ESPN,São Paulo
+2026-03-18,"Wed, Mar 18",,Brazilian Serie A,Palmeiras,Botafogo,2,1,2 - 1,FT,401841032,https://www.espn.com/soccer/match/_/gameId/401841032/botafogo-palmeiras,ESPN,Palmeiras
+2026-03-18,"Wed, Mar 18",,Brazilian Serie A,Santos,Internacional,1,2,1 - 2,FT,401841031,https://www.espn.com/soccer/match/_/gameId/401841031/internacional-santos,ESPN,Santos
+2026-03-18,"Wed, Mar 18",,Brazilian Serie A,Vasco da Gama,Fluminense,3,2,3 - 2,FT,401841030,https://www.espn.com/soccer/match/_/gameId/401841030/fluminense-vasco-da-gama,ESPN,Vasco
+2026-03-19,"Thu, Mar 19",,Brazilian Serie A,Chapecoense,Corinthians,0,0,0 - 0,FT,401841036,https://www.espn.com/soccer/match/_/gameId/401841036/corinthians-chapecoense,ESPN,Corinthians
+2026-03-19,"Thu, Mar 19",,Brazilian Serie A,Flamengo,Remo,3,0,3 - 0,FT,401841035,https://www.espn.com/soccer/match/_/gameId/401841035/remo-flamengo,ESPN,Flamengo
+2026-03-21,"Sat, Mar 21",,Brazilian Serie A,São Paulo,Palmeiras,0,1,0 - 1,FT,401841040,https://www.espn.com/soccer/match/_/gameId/401841040/palmeiras-sao-paulo,ESPN,Palmeiras; São Paulo
+2026-03-22,"Sun, Mar 22",,Brazilian Serie A,Corinthians,Flamengo,1,1,1 - 1,FT,401841046,https://www.espn.com/soccer/match/_/gameId/401841046/flamengo-corinthians,ESPN,Corinthians; Flamengo
+2026-03-22,"Sun, Mar 22",,Brazilian Serie A,Cruzeiro,Santos,0,0,0 - 0,FT,401841045,https://www.espn.com/soccer/match/_/gameId/401841045/santos-cruzeiro,ESPN,Santos
+2026-03-22,"Sun, Mar 22",,Brazilian Serie A,Vasco da Gama,Grêmio,2,1,2 - 1,FT,401841039,https://www.espn.com/soccer/match/_/gameId/401841039/gremio-vasco-da-gama,ESPN,Vasco
+2026-04-01,"Wed, Apr 1",,Brazilian Serie A,Coritiba,Vasco da Gama,1,1,1 - 1,FT,401841048,https://www.espn.com/soccer/match/_/gameId/401841048/vasco-da-gama-coritiba,ESPN,Vasco
+2026-04-01,"Wed, Apr 1",,Brazilian Serie A,Fluminense,Corinthians,3,1,3 - 1,FT,401841054,https://www.espn.com/soccer/match/_/gameId/401841054/corinthians-fluminense,ESPN,Corinthians
+2026-04-01,"Wed, Apr 1",,Brazilian Serie A,Internacional,São Paulo,1,1,1 - 1,FT,401841053,https://www.espn.com/soccer/match/_/gameId/401841053/sao-paulo-internacional,ESPN,São Paulo
+2026-04-02,"Thu, Apr 2",,Brazilian Serie A,Palmeiras,Grêmio,2,1,2 - 1,FT,401841052,https://www.espn.com/soccer/match/_/gameId/401841052/gremio-palmeiras,ESPN,Palmeiras
+2026-04-02,"Thu, Apr 2",,Brazilian Serie A,Red Bull Bragantino,Flamengo,3,0,3 - 0,FT,401841051,https://www.espn.com/soccer/match/_/gameId/401841051/flamengo-red-bull-bragantino,ESPN,Flamengo
+2026-04-02,"Thu, Apr 2",,Brazilian Serie A,Santos,Remo,2,0,2 - 0,FT,401841050,https://www.espn.com/soccer/match/_/gameId/401841050/remo-santos,ESPN,Santos
+2026-04-04,"Sat, Apr 4",,Brazilian Serie A,São Paulo,Cruzeiro,4,1,4 - 1,FT,401841059,https://www.espn.com/soccer/match/_/gameId/401841059/cruzeiro-sao-paulo,ESPN,São Paulo
+2026-04-04,"Sat, Apr 4",,Brazilian Serie A,Vasco da Gama,Botafogo,1,2,1 - 2,FT,401841062,https://www.espn.com/soccer/match/_/gameId/401841062/botafogo-vasco-da-gama,ESPN,Vasco
+2026-04-05,"Sun, Apr 5",,Brazilian Serie A,Bahia,Palmeiras,1,2,1 - 2,FT,401841066,https://www.espn.com/soccer/match/_/gameId/401841066/palmeiras-bahia,ESPN,Palmeiras
+2026-04-05,"Sun, Apr 5",,Brazilian Serie A,Corinthians,Internacional,0,1,0 - 1,FT,401841064,https://www.espn.com/soccer/match/_/gameId/401841064/internacional-corinthians,ESPN,Corinthians
+2026-04-05,"Sun, Apr 5",,Brazilian Serie A,Flamengo,Santos,3,1,3 - 1,FT,401841067,https://www.espn.com/soccer/match/_/gameId/401841067/santos-flamengo,ESPN,Flamengo; Santos
+2026-04-07,"Tue, Apr 7",,CONMEBOL Sudamericana,Barracas Central,Vasco da Gama,0,0,0 - 0,FT,401865374,https://www.espn.com/soccer/match/_/gameId/401865374/vasco-da-gama-barracas-central,ESPN,Vasco
+2026-04-07,"Tue, Apr 7",,CONMEBOL Sudamericana,Boston River,São Paulo,0,1,0 - 1,FT,401865372,https://www.espn.com/soccer/match/_/gameId/401865372/sao-paulo-boston-river,ESPN,São Paulo
+2026-04-08,"Wed, Apr 8",,CONMEBOL Libertadores,Atlético Junior,Palmeiras,1,1,1 - 1,FT,401865476,https://www.espn.com/soccer/match/_/gameId/401865476/palmeiras-atletico-junior,ESPN,Palmeiras
+2026-04-08,"Wed, Apr 8",,CONMEBOL Libertadores,Cusco FC,Flamengo,0,2,0 - 2,FT,401865482,https://www.espn.com/soccer/match/_/gameId/401865482/flamengo-cusco-fc,ESPN,Flamengo
+2026-04-08,"Wed, Apr 8",,CONMEBOL Sudamericana,Deportivo Cuenca,Santos,1,0,1 - 0,FT,401865386,https://www.espn.com/soccer/match/_/gameId/401865386/santos-deportivo-cuenca,ESPN,Santos
+2026-04-09,"Thu, Apr 9",,CONMEBOL Libertadores,Platense,Corinthians,0,2,0 - 2,FT,401865474,https://www.espn.com/soccer/match/_/gameId/401865474/corinthians-platense,ESPN,Corinthians
+2026-04-11,"Sat, Apr 11",,Brazilian Serie A,Remo,Vasco da Gama,1,1,1 - 1,FT,401841075,https://www.espn.com/soccer/match/_/gameId/401841075/vasco-da-gama-remo,ESPN,Vasco
+2026-04-11,"Sat, Apr 11",,Brazilian Serie A,Santos,Atlético-MG,1,0,1 - 0,FT,401841074,https://www.espn.com/soccer/match/_/gameId/401841074/atletico-mg-santos,ESPN,Santos
+2026-04-11,"Sat, Apr 11",,Brazilian Serie A,Vitória,São Paulo,2,0,2 - 0,FT,401841073,https://www.espn.com/soccer/match/_/gameId/401841073/sao-paulo-vitoria,ESPN,São Paulo
+2026-04-12,"Sun, Apr 12",,Brazilian Serie A,Corinthians,Palmeiras,0,0,0 - 0,FT,401841069,https://www.espn.com/soccer/match/_/gameId/401841069/palmeiras-corinthians,ESPN,Corinthians; Palmeiras
+2026-04-12,"Sun, Apr 12",,Brazilian Serie A,Fluminense,Flamengo,1,2,1 - 2,FT,401841072,https://www.espn.com/soccer/match/_/gameId/401841072/flamengo-fluminense,ESPN,Flamengo
+2026-04-14,"Tue, Apr 14",,CONMEBOL Sudamericana,Santos,Deportivo Recoleta,1,1,1 - 1,FT,401865396,https://www.espn.com/soccer/match/_/gameId/401865396/deportivo-recoleta-santos,ESPN,Santos
+2026-04-14,"Tue, Apr 14",,CONMEBOL Sudamericana,São Paulo,O'Higgins,2,0,2 - 0,FT,401865395,https://www.espn.com/soccer/match/_/gameId/401865395/ohiggins-sao-paulo,ESPN,São Paulo
+2026-04-14,"Tue, Apr 14",,CONMEBOL Sudamericana,Vasco da Gama,Audax Italiano,1,2,1 - 2,FT,401865388,https://www.espn.com/soccer/match/_/gameId/401865388/audax-italiano-vasco-da-gama,ESPN,Vasco
+2026-04-15,"Wed, Apr 15",,CONMEBOL Libertadores,Corinthians,Independiente Santa Fe,2,0,2 - 0,FT,401865496,https://www.espn.com/soccer/match/_/gameId/401865496/independiente-santa-fe-corinthians,ESPN,Corinthians
+2026-04-16,"Thu, Apr 16",,CONMEBOL Libertadores,Flamengo,Independiente Medellín,4,1,4 - 1,FT,401865493,https://www.espn.com/soccer/match/_/gameId/401865493/independiente-medellin-flamengo,ESPN,Flamengo
+2026-04-16,"Thu, Apr 16",,CONMEBOL Libertadores,Palmeiras,Sporting Cristal,2,1,2 - 1,FT,401865500,https://www.espn.com/soccer/match/_/gameId/401865500/sporting-cristal-palmeiras,ESPN,Palmeiras
+2026-04-18,"Sat, Apr 18",,Brazilian Serie A,Vasco da Gama,São Paulo,2,1,2 - 1,FT,401841081,https://www.espn.com/soccer/match/_/gameId/401841081/sao-paulo-vasco-da-gama,ESPN,São Paulo; Vasco
+2026-04-18,"Sat, Apr 18",,Brazilian Serie A,Vitória,Corinthians,0,0,0 - 0,FT,401841080,https://www.espn.com/soccer/match/_/gameId/401841080/corinthians-vitoria,ESPN,Corinthians
+2026-04-19,"Sun, Apr 19",,Brazilian Serie A,Flamengo,Bahia,2,0,2 - 0,FT,401841086,https://www.espn.com/soccer/match/_/gameId/401841086/bahia-flamengo,ESPN,Flamengo
+2026-04-19,"Sun, Apr 19",,Brazilian Serie A,Palmeiras,Athletico Paranaense,1,0,1 - 0,FT,401841084,https://www.espn.com/soccer/match/_/gameId/401841084/athletico-paranaense-palmeiras,ESPN,Palmeiras
+2026-04-19,"Sun, Apr 19",,Brazilian Serie A,Santos,Fluminense,2,3,2 - 3,FT,401841082,https://www.espn.com/soccer/match/_/gameId/401841082/fluminense-santos,ESPN,Santos
+2026-04-21,"Tue, Apr 21",,Copa do Brasil,Barra FC,Corinthians,0,1,0 - 1 1st Leg,FT,401866346,https://www.espn.com/soccer/match/_/gameId/401866346/corinthians-barra-fc,ESPN,Corinthians
+2026-04-21,"Tue, Apr 21",,Copa do Brasil,Paysandu,Vasco da Gama,0,2,0 - 2 1st Leg,FT,401866338,https://www.espn.com/soccer/match/_/gameId/401866338/vasco-da-gama-paysandu,ESPN,Vasco
+2026-04-21,"Tue, Apr 21",,Copa do Brasil,São Paulo,Juventude,1,0,1 - 0 1st Leg,FT,401866335,https://www.espn.com/soccer/match/_/gameId/401866335/juventude-sao-paulo,ESPN,São Paulo
+2026-04-22,"Wed, Apr 22",,Copa do Brasil,Flamengo,Vitória,2,1,2 - 1 1st Leg,FT,401866344,https://www.espn.com/soccer/match/_/gameId/401866344/vitoria-flamengo,ESPN,Flamengo
+2026-04-22,"Wed, Apr 22",,Copa do Brasil,Santos,Coritiba,0,0,0 - 0 1st Leg,FT,401866336,https://www.espn.com/soccer/match/_/gameId/401866336/coritiba-santos,ESPN,Santos
+2026-04-23,"Thu, Apr 23",,Copa do Brasil,Palmeiras,Jacuipense,3,0,3 - 0 1st Leg,FT,401866339,https://www.espn.com/soccer/match/_/gameId/401866339/jacuipense-palmeiras,ESPN,Palmeiras
+2026-04-25,"Sat, Apr 25",,Brazilian Serie A,Bahia,Santos,2,2,2 - 2,FT,401841095,https://www.espn.com/soccer/match/_/gameId/401841095/santos-bahia,ESPN,Santos
+2026-04-25,"Sat, Apr 25",,Brazilian Serie A,São Paulo,Mirassol,1,0,1 - 0,FT,401841092,https://www.espn.com/soccer/match/_/gameId/401841092/mirassol-sao-paulo,ESPN,São Paulo
+2026-04-26,"Sun, Apr 26",,Brazilian Serie A,Atlético-MG,Flamengo,0,4,0 - 4,FT,401841096,https://www.espn.com/soccer/match/_/gameId/401841096/flamengo-atletico-mg,ESPN,Flamengo
+2026-04-26,"Sun, Apr 26",,Brazilian Serie A,Corinthians,Vasco da Gama,1,0,1 - 0,FT,401841089,https://www.espn.com/soccer/match/_/gameId/401841089/vasco-da-gama-corinthians,ESPN,Corinthians; Vasco
+2026-04-26,"Sun, Apr 26",,Brazilian Serie A,Red Bull Bragantino,Palmeiras,0,1,0 - 1,FT,401841097,https://www.espn.com/soccer/match/_/gameId/401841097/palmeiras-red-bull-bragantino,ESPN,Palmeiras
+2026-04-28,"Tue, Apr 28",,CONMEBOL Sudamericana,Millonarios,São Paulo,0,0,0 - 0,FT,401865411,https://www.espn.com/soccer/match/_/gameId/401865411/sao-paulo-millonarios,ESPN,São Paulo
+2026-04-28,"Tue, Apr 28",,CONMEBOL Sudamericana,San Lorenzo,Santos,1,1,1 - 1,FT,401865416,https://www.espn.com/soccer/match/_/gameId/401865416/santos-san-lorenzo,ESPN,Santos
+2026-04-29,"Wed, Apr 29",,CONMEBOL Libertadores,Cerro Porteño,Palmeiras,1,1,1 - 1,FT,401865503,https://www.espn.com/soccer/match/_/gameId/401865503/palmeiras-cerro-porteno,ESPN,Palmeiras
+2026-04-29,"Wed, Apr 29",,CONMEBOL Libertadores,Estudiantes de La Plata,Flamengo,1,1,1 - 1,FT,401865507,https://www.espn.com/soccer/match/_/gameId/401865507/flamengo-estudiantes-de-la-plata,ESPN,Flamengo
+2026-04-30,"Thu, Apr 30",,CONMEBOL Libertadores,Corinthians,Peñarol,2,0,2 - 0,FT,401865504,https://www.espn.com/soccer/match/_/gameId/401865504/penarol-corinthians,ESPN,Corinthians
+2026-04-30,"Thu, Apr 30",,CONMEBOL Sudamericana,Vasco da Gama,Club Olimpia,3,0,3 - 0,FT,401865418,https://www.espn.com/soccer/match/_/gameId/401865418/club-olimpia-vasco-da-gama,ESPN,Vasco
+2026-05-02,"Sat, May 2",,Brazilian Serie A,Palmeiras,Santos,1,1,1 - 1,FT,401841102,https://www.espn.com/soccer/match/_/gameId/401841102/santos-palmeiras,ESPN,Palmeiras; Santos
+2026-05-03,"Sun, May 3",,Brazilian Serie A,Flamengo,Vasco da Gama,2,2,2 - 2,FT,401841105,https://www.espn.com/soccer/match/_/gameId/401841105/vasco-da-gama-flamengo,ESPN,Flamengo; Vasco
+2026-05-03,"Sun, May 3",,Brazilian Serie A,Mirassol,Corinthians,2,1,2 - 1,FT,401841103,https://www.espn.com/soccer/match/_/gameId/401841103/corinthians-mirassol,ESPN,Corinthians
+2026-05-03,"Sun, May 3",,Brazilian Serie A,São Paulo,Bahia,2,2,2 - 2,FT,401841101,https://www.espn.com/soccer/match/_/gameId/401841101/bahia-sao-paulo,ESPN,São Paulo
+2026-05-05,"Tue, May 5",,CONMEBOL Sudamericana,Deportivo Recoleta,Santos,1,1,1 - 1,FT,401865420,https://www.espn.com/soccer/match/_/gameId/401865420/santos-deportivo-recoleta,ESPN,Santos
+2026-05-05,"Tue, May 5",,CONMEBOL Libertadores,Sporting Cristal,Palmeiras,0,2,0 - 2,FT,401865530,https://www.espn.com/soccer/match/_/gameId/401865530/palmeiras-sporting-cristal,ESPN,Palmeiras
+2026-05-06,"Wed, May 6",,CONMEBOL Sudamericana,Audax Italiano,Vasco da Gama,1,2,1 - 2,FT,401865423,https://www.espn.com/soccer/match/_/gameId/401865423/vasco-da-gama-audax-italiano,ESPN,Vasco
+2026-05-06,"Wed, May 6",,CONMEBOL Libertadores,Independiente Santa Fe,Corinthians,1,1,1 - 1,FT,401865525,https://www.espn.com/soccer/match/_/gameId/401865525/corinthians-independiente-santa-fe,ESPN,Corinthians
+2026-05-07,"Thu, May 7",,CONMEBOL Sudamericana,O'Higgins,São Paulo,0,0,0 - 0,FT,401865433,https://www.espn.com/soccer/match/_/gameId/401865433/sao-paulo-ohiggins,ESPN,São Paulo
+2026-05-10,"Sun, May 10",,Brazilian Serie A,Corinthians,São Paulo,3,2,3 - 2,FT,401841115,https://www.espn.com/soccer/match/_/gameId/401841115/sao-paulo-corinthians,ESPN,Corinthians; São Paulo
+2026-05-10,"Sun, May 10",,Brazilian Serie A,Grêmio,Flamengo,0,1,0 - 1,FT,401841117,https://www.espn.com/soccer/match/_/gameId/401841117/flamengo-gremio,ESPN,Flamengo
+2026-05-10,"Sun, May 10",,Brazilian Serie A,Remo,Palmeiras,1,1,1 - 1,FT,401841110,https://www.espn.com/soccer/match/_/gameId/401841110/palmeiras-remo,ESPN,Palmeiras
+2026-05-10,"Sun, May 10",,Brazilian Serie A,Santos,Red Bull Bragantino,2,0,2 - 0,FT,401841109,https://www.espn.com/soccer/match/_/gameId/401841109/red-bull-bragantino-santos,ESPN,Santos
+2026-05-10,"Sun, May 10",,Brazilian Serie A,Vasco da Gama,Athletico Paranaense,1,0,1 - 0,FT,401841112,https://www.espn.com/soccer/match/_/gameId/401841112/athletico-paranaense-vasco-da-gama,ESPN,Vasco
+2026-05-13,"Wed, May 13",,Copa do Brasil,Coritiba,Santos,0,2,0 - 2 2nd Leg,FT,401866358,https://www.espn.com/soccer/match/_/gameId/401866358/santos-coritiba,ESPN,Santos
+2026-05-13,"Wed, May 13",,Copa do Brasil,Jacuipense,Palmeiras,1,4,1 - 4 2nd Leg · Palmeiras wins 7-1 on aggregate,FT,401866354,https://www.espn.com/soccer/match/_/gameId/401866354/palmeiras-jacuipense,ESPN,Palmeiras
+2026-05-13,"Wed, May 13",,Copa do Brasil,Juventude,São Paulo,3,1,3 - 1 2nd Leg · Juventude wins 3-2 on aggregate,FT,401866353,https://www.espn.com/soccer/match/_/gameId/401866353/sao-paulo-juventude,ESPN,São Paulo
+2026-05-13,"Wed, May 13",,Copa do Brasil,Vasco da Gama,Paysandu,2,2,2 - 2 2nd Leg · Vasco da Gama wins 4-2 on aggregate,FT,401866364,https://www.espn.com/soccer/match/_/gameId/401866364/paysandu-vasco-da-gama,ESPN,Vasco
+2026-05-16,"Sat, May 16",5:30 PM,Brazilian Serie A,Internacional,Vasco da Gama,,,,agendado,401841126,https://www.espn.com/soccer/match/_/gameId/401841126/vasco-da-gama-internacional,ESPN,Vasco
+2026-05-16,"Sat, May 16",6:00 PM,Brazilian Serie A,Fluminense,São Paulo,,,,agendado,401841127,https://www.espn.com/soccer/match/_/gameId/401841127/sao-paulo-fluminense,ESPN,São Paulo
+2026-05-16,"Sat, May 16",8:00 PM,Brazilian Serie A,Palmeiras,Cruzeiro,,,,agendado,401841125,https://www.espn.com/soccer/match/_/gameId/401841125/cruzeiro-palmeiras,ESPN,Palmeiras
+2026-05-17,"Sun, May 17",10:00 AM,Brazilian Serie A,Santos,Coritiba,,,,agendado,401841123,https://www.espn.com/soccer/match/_/gameId/401841123/coritiba-santos,ESPN,Santos
+2026-05-17,"Sun, May 17",3:00 PM,Brazilian Serie A,Botafogo,Corinthians,,,,agendado,401841118,https://www.espn.com/soccer/match/_/gameId/401841118/corinthians-botafogo,ESPN,Corinthians
+2026-05-17,"Sun, May 17",6:30 PM,Brazilian Serie A,Athletico Paranaense,Flamengo,,,,agendado,401841121,https://www.espn.com/soccer/match/_/gameId/401841121/flamengo-athletico-paranaense,ESPN,Flamengo
+2026-05-19,"Tue, May 19",8:30 PM,CONMEBOL Sudamericana,São Paulo,Millonarios,,,,agendado,401865443,https://www.espn.com/soccer/match/_/gameId/401865443/millonarios-sao-paulo,ESPN,São Paulo
+2026-05-20,"Wed, May 20",6:00 PM,CONMEBOL Sudamericana,Club Olimpia,Vasco da Gama,,,,agendado,401865447,https://www.espn.com/soccer/match/_/gameId/401865447/vasco-da-gama-club-olimpia,ESPN,Vasco
+2026-05-20,"Wed, May 20",6:00 PM,CONMEBOL Sudamericana,Santos,San Lorenzo,,,,agendado,401865444,https://www.espn.com/soccer/match/_/gameId/401865444/san-lorenzo-santos,ESPN,Santos
+2026-05-20,"Wed, May 20",8:30 PM,CONMEBOL Libertadores,Flamengo,Estudiantes de La Plata,,,,agendado,401865534,https://www.espn.com/soccer/match/_/gameId/401865534/estudiantes-de-la-plata-flamengo,ESPN,Flamengo
+2026-05-20,"Wed, May 20",8:30 PM,CONMEBOL Libertadores,Palmeiras,Cerro Porteño,,,,agendado,401865544,https://www.espn.com/soccer/match/_/gameId/401865544/cerro-porteno-palmeiras,ESPN,Palmeiras
+2026-05-21,"Thu, May 21",8:30 PM,CONMEBOL Libertadores,Peñarol,Corinthians,,,,agendado,401865543,https://www.espn.com/soccer/match/_/gameId/401865543/corinthians-penarol,ESPN,Corinthians
+2026-05-23,"Sat, May 23",4:00 PM,Brazilian Serie A,São Paulo,Botafogo,,,,agendado,401841132,https://www.espn.com/soccer/match/_/gameId/401841132/botafogo-sao-paulo,ESPN,São Paulo
+2026-05-23,"Sat, May 23",6:00 PM,Brazilian Serie A,Grêmio,Santos,,,,agendado,401841135,https://www.espn.com/soccer/match/_/gameId/401841135/santos-gremio,ESPN,Santos
+2026-05-23,"Sat, May 23",8:00 PM,Brazilian Serie A,Flamengo,Palmeiras,,,,agendado,401841136,https://www.espn.com/soccer/match/_/gameId/401841136/palmeiras-flamengo,ESPN,Flamengo; Palmeiras
+2026-05-24,"Sun, May 24",5:30 PM,Brazilian Serie A,Corinthians,Atlético-MG,,,,agendado,401841128,https://www.espn.com/soccer/match/_/gameId/401841128/atletico-mg-corinthians,ESPN,Corinthians
+2026-05-24,"Sun, May 24",7:30 PM,Brazilian Serie A,Vasco da Gama,Red Bull Bragantino,,,,agendado,401841131,https://www.espn.com/soccer/match/_/gameId/401841131/red-bull-bragantino-vasco-da-gama,ESPN,Vasco
+2026-05-26,"Tue, May 26",6:00 PM,CONMEBOL Sudamericana,São Paulo,Boston River,,,,agendado,401865459,https://www.espn.com/soccer/match/_/gameId/401865459/boston-river-sao-paulo,ESPN,São Paulo
+2026-05-26,"Tue, May 26",8:30 PM,CONMEBOL Libertadores,Flamengo,Cusco FC,,,,agendado,401865555,https://www.espn.com/soccer/match/_/gameId/401865555/cusco-fc-flamengo,ESPN,Flamengo
+2026-05-26,"Tue, May 26",8:30 PM,CONMEBOL Sudamericana,Santos,Deportivo Cuenca,,,,agendado,401865460,https://www.espn.com/soccer/match/_/gameId/401865460/deportivo-cuenca-santos,ESPN,Santos
+2026-05-27,"Wed, May 27",8:30 PM,CONMEBOL Libertadores,Corinthians,Platense,,,,agendado,401865552,https://www.espn.com/soccer/match/_/gameId/401865552/platense-corinthians,ESPN,Corinthians
+2026-05-27,"Wed, May 27",8:30 PM,CONMEBOL Sudamericana,Vasco da Gama,Barracas Central,,,,agendado,401865452,https://www.espn.com/soccer/match/_/gameId/401865452/barracas-central-vasco-da-gama,ESPN,Vasco
+2026-05-28,"Thu, May 28",6:00 PM,CONMEBOL Libertadores,Palmeiras,Atlético Junior,,,,agendado,401865557,https://www.espn.com/soccer/match/_/gameId/401865557/atletico-junior-palmeiras,ESPN,Palmeiras
+2026-05-30,"Sat, May 30",3:00 PM,Brazilian Serie A,Flamengo,Coritiba,,,,agendado,401841144,https://www.espn.com/soccer/match/_/gameId/401841144/coritiba-flamengo,ESPN,Flamengo
+2026-05-30,"Sat, May 30",4:30 PM,Brazilian Serie A,Grêmio,Corinthians,,,,agendado,401841139,https://www.espn.com/soccer/match/_/gameId/401841139/corinthians-gremio,ESPN,Corinthians
+2026-05-30,"Sat, May 30",6:30 PM,Brazilian Serie A,Remo,São Paulo,,,,agendado,401841147,https://www.espn.com/soccer/match/_/gameId/401841147/sao-paulo-remo,ESPN,São Paulo
+2026-05-30,"Sat, May 30",8:00 PM,Brazilian Serie A,Santos,Vitória,,,,agendado,401841143,https://www.espn.com/soccer/match/_/gameId/401841143/vitoria-santos,ESPN,Santos
+2026-05-31,"Sun, May 31",3:00 PM,Brazilian Serie A,Palmeiras,Chapecoense,,,,agendado,401841140,https://www.espn.com/soccer/match/_/gameId/401841140/chapecoense-palmeiras,ESPN,Palmeiras
+2026-05-31,"Sun, May 31",3:00 PM,Brazilian Serie A,Vasco da Gama,Atlético-MG,,,,agendado,401841142,https://www.espn.com/soccer/match/_/gameId/401841142/atletico-mg-vasco-da-gama,ESPN,Vasco
+2026-07-22,"Wed, Jul 22",TBD,Brazilian Serie A,Botafogo,Santos,,,,agendado,401841149,https://www.espn.com/soccer/match/_/gameId/401841149/santos-botafogo,ESPN,Santos
+2026-07-22,"Wed, Jul 22",TBD,Brazilian Serie A,Chapecoense,Flamengo,,,,agendado,401841150,https://www.espn.com/soccer/match/_/gameId/401841150/flamengo-chapecoense,ESPN,Flamengo
+2026-07-22,"Wed, Jul 22",TBD,Brazilian Serie A,Corinthians,Remo,,,,agendado,401841151,https://www.espn.com/soccer/match/_/gameId/401841151/remo-corinthians,ESPN,Corinthians
+2026-07-22,"Wed, Jul 22",TBD,Brazilian Serie A,Coritiba,Palmeiras,,,,agendado,401841152,https://www.espn.com/soccer/match/_/gameId/401841152/palmeiras-coritiba,ESPN,Palmeiras
+2026-07-22,"Wed, Jul 22",TBD,Brazilian Serie A,São Paulo,Athletico Paranaense,,,,agendado,401841156,https://www.espn.com/soccer/match/_/gameId/401841156/athletico-paranaense-sao-paulo,ESPN,São Paulo
+2026-07-22,"Wed, Jul 22",TBD,Brazilian Serie A,Vitória,Vasco da Gama,,,,agendado,401841157,https://www.espn.com/soccer/match/_/gameId/401841157/vasco-da-gama-vitoria,ESPN,Vasco
+2026-07-25,"Sat, Jul 25",TBD,Brazilian Serie A,Bahia,Corinthians,,,,agendado,401841159,https://www.espn.com/soccer/match/_/gameId/401841159/corinthians-bahia,ESPN,Corinthians
+2026-07-25,"Sat, Jul 25",TBD,Brazilian Serie A,Flamengo,São Paulo,,,,agendado,401841166,https://www.espn.com/soccer/match/_/gameId/401841166/sao-paulo-flamengo,ESPN,Flamengo; São Paulo
+2026-07-25,"Sat, Jul 25",TBD,Brazilian Serie A,Palmeiras,Atlético-MG,,,,agendado,401841164,https://www.espn.com/soccer/match/_/gameId/401841164/atletico-mg-palmeiras,ESPN,Palmeiras
+2026-07-25,"Sat, Jul 25",TBD,Brazilian Serie A,Santos,Chapecoense,,,,agendado,401841161,https://www.espn.com/soccer/match/_/gameId/401841161/chapecoense-santos,ESPN,Santos
+2026-07-25,"Sat, Jul 25",TBD,Brazilian Serie A,Vasco da Gama,Mirassol,,,,agendado,401841160,https://www.espn.com/soccer/match/_/gameId/401841160/mirassol-vasco-da-gama,ESPN,Vasco
+2026-07-29,"Wed, Jul 29",TBD,Brazilian Serie A,Chapecoense,Vasco da Gama,,,,agendado,401841175,https://www.espn.com/soccer/match/_/gameId/401841175/vasco-da-gama-chapecoense,ESPN,Vasco
+2026-07-29,"Wed, Jul 29",TBD,Brazilian Serie A,Corinthians,Athletico Paranaense,,,,agendado,401841174,https://www.espn.com/soccer/match/_/gameId/401841174/athletico-paranaense-corinthians,ESPN,Corinthians
+2026-07-29,"Wed, Jul 29",TBD,Brazilian Serie A,Internacional,Flamengo,,,,agendado,401841171,https://www.espn.com/soccer/match/_/gameId/401841171/flamengo-internacional,ESPN,Flamengo
+2026-07-29,"Wed, Jul 29",TBD,Brazilian Serie A,São Paulo,Santos,,,,agendado,401841169,https://www.espn.com/soccer/match/_/gameId/401841169/santos-sao-paulo,ESPN,Santos; São Paulo
+2026-07-29,"Wed, Jul 29",TBD,Brazilian Serie A,Vitória,Palmeiras,,,,agendado,401841172,https://www.espn.com/soccer/match/_/gameId/401841172/palmeiras-vitoria,ESPN,Palmeiras
+2026-08-08,"Sat, Aug 8",TBD,Brazilian Serie A,Bahia,Vasco da Gama,,,,agendado,401841186,https://www.espn.com/soccer/match/_/gameId/401841186/vasco-da-gama-bahia,ESPN,Vasco
+2026-08-08,"Sat, Aug 8",TBD,Brazilian Serie A,Flamengo,Vitória,,,,agendado,401841187,https://www.espn.com/soccer/match/_/gameId/401841187/vitoria-flamengo,ESPN,Flamengo
+2026-08-08,"Sat, Aug 8",TBD,Brazilian Serie A,Grêmio,São Paulo,,,,agendado,401841181,https://www.espn.com/soccer/match/_/gameId/401841181/sao-paulo-gremio,ESPN,São Paulo
+2026-08-08,"Sat, Aug 8",TBD,Brazilian Serie A,Palmeiras,Internacional,,,,agendado,401841180,https://www.espn.com/soccer/match/_/gameId/401841180/internacional-palmeiras,ESPN,Palmeiras
+2026-08-08,"Sat, Aug 8",TBD,Brazilian Serie A,Red Bull Bragantino,Corinthians,,,,agendado,401841179,https://www.espn.com/soccer/match/_/gameId/401841179/corinthians-red-bull-bragantino,ESPN,Corinthians
+2026-08-08,"Sat, Aug 8",TBD,Brazilian Serie A,Santos,Athletico Paranaense,,,,agendado,401841182,https://www.espn.com/soccer/match/_/gameId/401841182/athletico-paranaense-santos,ESPN,Santos
+2026-08-15,"Sat, Aug 15",TBD,Brazilian Serie A,Corinthians,Cruzeiro,,,,agendado,401841193,https://www.espn.com/soccer/match/_/gameId/401841193/cruzeiro-corinthians,ESPN,Corinthians
+2026-08-15,"Sat, Aug 15",TBD,Brazilian Serie A,Fluminense,Palmeiras,,,,agendado,401841192,https://www.espn.com/soccer/match/_/gameId/401841192/palmeiras-fluminense,ESPN,Palmeiras
+2026-08-15,"Sat, Aug 15",TBD,Brazilian Serie A,Mirassol,Flamengo,,,,agendado,401841190,https://www.espn.com/soccer/match/_/gameId/401841190/flamengo-mirassol,ESPN,Flamengo
+2026-08-15,"Sat, Aug 15",TBD,Brazilian Serie A,São Paulo,Coritiba,,,,agendado,401841189,https://www.espn.com/soccer/match/_/gameId/401841189/coritiba-sao-paulo,ESPN,São Paulo
+2026-08-15,"Sat, Aug 15",TBD,Brazilian Serie A,Vasco da Gama,Santos,,,,agendado,401841188,https://www.espn.com/soccer/match/_/gameId/401841188/santos-vasco-da-gama,ESPN,Santos; Vasco
+2026-08-22,"Sat, Aug 22",TBD,Brazilian Serie A,Chapecoense,São Paulo,,,,agendado,401841199,https://www.espn.com/soccer/match/_/gameId/401841199/sao-paulo-chapecoense,ESPN,São Paulo
+2026-08-22,"Sat, Aug 22",TBD,Brazilian Serie A,Coritiba,Corinthians,,,,agendado,401841207,https://www.espn.com/soccer/match/_/gameId/401841207/corinthians-coritiba,ESPN,Corinthians
+2026-08-22,"Sat, Aug 22",TBD,Brazilian Serie A,Cruzeiro,Flamengo,,,,agendado,401841206,https://www.espn.com/soccer/match/_/gameId/401841206/flamengo-cruzeiro,ESPN,Flamengo
+2026-08-22,"Sat, Aug 22",TBD,Brazilian Serie A,Palmeiras,Vasco da Gama,,,,agendado,401841203,https://www.espn.com/soccer/match/_/gameId/401841203/vasco-da-gama-palmeiras,ESPN,Palmeiras; Vasco
+2026-08-22,"Sat, Aug 22",TBD,Brazilian Serie A,Santos,Mirassol,,,,agendado,401841201,https://www.espn.com/soccer/match/_/gameId/401841201/mirassol-santos,ESPN,Santos
+2026-08-29,"Sat, Aug 29",TBD,Brazilian Serie A,Corinthians,Santos,,,,agendado,401841214,https://www.espn.com/soccer/match/_/gameId/401841214/santos-corinthians,ESPN,Corinthians; Santos
+2026-08-29,"Sat, Aug 29",TBD,Brazilian Serie A,Flamengo,Botafogo,,,,agendado,401841213,https://www.espn.com/soccer/match/_/gameId/401841213/botafogo-flamengo,ESPN,Flamengo
+2026-08-29,"Sat, Aug 29",TBD,Brazilian Serie A,Mirassol,Palmeiras,,,,agendado,401841211,https://www.espn.com/soccer/match/_/gameId/401841211/palmeiras-mirassol,ESPN,Palmeiras
+2026-08-29,"Sat, Aug 29",TBD,Brazilian Serie A,São Paulo,Red Bull Bragantino,,,,agendado,401841209,https://www.espn.com/soccer/match/_/gameId/401841209/red-bull-bragantino-sao-paulo,ESPN,São Paulo
+2026-08-29,"Sat, Aug 29",TBD,Brazilian Serie A,Vasco da Gama,Cruzeiro,,,,agendado,401841212,https://www.espn.com/soccer/match/_/gameId/401841212/cruzeiro-vasco-da-gama,ESPN,Vasco
+2026-09-05,"Sat, Sep 5",TBD,Brazilian Serie A,Botafogo,Palmeiras,,,,agendado,401841221,https://www.espn.com/soccer/match/_/gameId/401841221/palmeiras-botafogo,ESPN,Palmeiras
+2026-09-05,"Sat, Sep 5",TBD,Brazilian Serie A,Corinthians,Chapecoense,,,,agendado,401841220,https://www.espn.com/soccer/match/_/gameId/401841220/chapecoense-corinthians,ESPN,Corinthians
+2026-09-05,"Sat, Sep 5",TBD,Brazilian Serie A,Fluminense,Vasco da Gama,,,,agendado,401841227,https://www.espn.com/soccer/match/_/gameId/401841227/vasco-da-gama-fluminense,ESPN,Vasco
+2026-09-05,"Sat, Sep 5",TBD,Brazilian Serie A,Internacional,Santos,,,,agendado,401841223,https://www.espn.com/soccer/match/_/gameId/401841223/santos-internacional,ESPN,Santos
+2026-09-05,"Sat, Sep 5",TBD,Brazilian Serie A,Remo,Flamengo,,,,agendado,401841225,https://www.espn.com/soccer/match/_/gameId/401841225/flamengo-remo,ESPN,Flamengo
+2026-09-05,"Sat, Sep 5",TBD,Brazilian Serie A,São Paulo,Atlético-MG,,,,agendado,401841226,https://www.espn.com/soccer/match/_/gameId/401841226/atletico-mg-sao-paulo,ESPN,São Paulo
+2026-09-12,"Sat, Sep 12",TBD,Brazilian Serie A,Flamengo,Corinthians,,,,agendado,401841237,https://www.espn.com/soccer/match/_/gameId/401841237/corinthians-flamengo,ESPN,Corinthians; Flamengo
+2026-09-12,"Sat, Sep 12",TBD,Brazilian Serie A,Grêmio,Vasco da Gama,,,,agendado,401841236,https://www.espn.com/soccer/match/_/gameId/401841236/vasco-da-gama-gremio,ESPN,Vasco
+2026-09-12,"Sat, Sep 12",TBD,Brazilian Serie A,Palmeiras,São Paulo,,,,agendado,401841234,https://www.espn.com/soccer/match/_/gameId/401841234/sao-paulo-palmeiras,ESPN,Palmeiras; São Paulo
+2026-09-12,"Sat, Sep 12",TBD,Brazilian Serie A,Santos,Cruzeiro,,,,agendado,401841233,https://www.espn.com/soccer/match/_/gameId/401841233/cruzeiro-santos,ESPN,Santos
+2026-09-19,"Sat, Sep 19",TBD,Brazilian Serie A,Corinthians,Fluminense,,,,agendado,401841240,https://www.espn.com/soccer/match/_/gameId/401841240/fluminense-corinthians,ESPN,Corinthians
+2026-09-19,"Sat, Sep 19",TBD,Brazilian Serie A,Flamengo,Red Bull Bragantino,,,,agendado,401841241,https://www.espn.com/soccer/match/_/gameId/401841241/red-bull-bragantino-flamengo,ESPN,Flamengo
+2026-09-19,"Sat, Sep 19",TBD,Brazilian Serie A,Grêmio,Palmeiras,,,,agendado,401841246,https://www.espn.com/soccer/match/_/gameId/401841246/palmeiras-gremio,ESPN,Palmeiras
+2026-09-19,"Sat, Sep 19",TBD,Brazilian Serie A,Remo,Santos,,,,agendado,401841244,https://www.espn.com/soccer/match/_/gameId/401841244/santos-remo,ESPN,Santos
+2026-09-19,"Sat, Sep 19",TBD,Brazilian Serie A,São Paulo,Internacional,,,,agendado,401841243,https://www.espn.com/soccer/match/_/gameId/401841243/internacional-sao-paulo,ESPN,São Paulo
+2026-09-19,"Sat, Sep 19",TBD,Brazilian Serie A,Vasco da Gama,Coritiba,,,,agendado,401841247,https://www.espn.com/soccer/match/_/gameId/401841247/coritiba-vasco-da-gama,ESPN,Vasco
+2026-10-07,"Wed, Oct 7",TBD,Brazilian Serie A,Botafogo,Vasco da Gama,,,,agendado,401841257,https://www.espn.com/soccer/match/_/gameId/401841257/vasco-da-gama-botafogo,ESPN,Vasco
+2026-10-07,"Wed, Oct 7",TBD,Brazilian Serie A,Cruzeiro,São Paulo,,,,agendado,401841249,https://www.espn.com/soccer/match/_/gameId/401841249/sao-paulo-cruzeiro,ESPN,São Paulo
+2026-10-07,"Wed, Oct 7",TBD,Brazilian Serie A,Internacional,Corinthians,,,,agendado,401841255,https://www.espn.com/soccer/match/_/gameId/401841255/corinthians-internacional,ESPN,Corinthians
+2026-10-07,"Wed, Oct 7",TBD,Brazilian Serie A,Palmeiras,Bahia,,,,agendado,401841254,https://www.espn.com/soccer/match/_/gameId/401841254/bahia-palmeiras,ESPN,Palmeiras
+2026-10-07,"Wed, Oct 7",TBD,Brazilian Serie A,Santos,Flamengo,,,,agendado,401841251,https://www.espn.com/soccer/match/_/gameId/401841251/flamengo-santos,ESPN,Flamengo; Santos
+2026-10-10,"Sat, Oct 10",TBD,Brazilian Serie A,Atlético-MG,Santos,,,,agendado,401841258,https://www.espn.com/soccer/match/_/gameId/401841258/santos-atletico-mg,ESPN,Santos
+2026-10-10,"Sat, Oct 10",TBD,Brazilian Serie A,Flamengo,Fluminense,,,,agendado,401841263,https://www.espn.com/soccer/match/_/gameId/401841263/fluminense-flamengo,ESPN,Flamengo
+2026-10-10,"Sat, Oct 10",TBD,Brazilian Serie A,Palmeiras,Corinthians,,,,agendado,401841261,https://www.espn.com/soccer/match/_/gameId/401841261/corinthians-palmeiras,ESPN,Corinthians; Palmeiras
+2026-10-10,"Sat, Oct 10",TBD,Brazilian Serie A,São Paulo,Vitória,,,,agendado,401841259,https://www.espn.com/soccer/match/_/gameId/401841259/vitoria-sao-paulo,ESPN,São Paulo
+2026-10-10,"Sat, Oct 10",TBD,Brazilian Serie A,Vasco da Gama,Remo,,,,agendado,401841262,https://www.espn.com/soccer/match/_/gameId/401841262/remo-vasco-da-gama,ESPN,Vasco
+2026-10-17,"Sat, Oct 17",TBD,Brazilian Serie A,Athletico Paranaense,Palmeiras,,,,agendado,401841271,https://www.espn.com/soccer/match/_/gameId/401841271/palmeiras-athletico-paranaense,ESPN,Palmeiras
+2026-10-17,"Sat, Oct 17",TBD,Brazilian Serie A,Bahia,Flamengo,,,,agendado,401841269,https://www.espn.com/soccer/match/_/gameId/401841269/flamengo-bahia,ESPN,Flamengo
+2026-10-17,"Sat, Oct 17",TBD,Brazilian Serie A,Corinthians,Vitória,,,,agendado,401841272,https://www.espn.com/soccer/match/_/gameId/401841272/vitoria-corinthians,ESPN,Corinthians
+2026-10-17,"Sat, Oct 17",TBD,Brazilian Serie A,Fluminense,Santos,,,,agendado,401841277,https://www.espn.com/soccer/match/_/gameId/401841277/santos-fluminense,ESPN,Santos
+2026-10-17,"Sat, Oct 17",TBD,Brazilian Serie A,São Paulo,Vasco da Gama,,,,agendado,401841273,https://www.espn.com/soccer/match/_/gameId/401841273/vasco-da-gama-sao-paulo,ESPN,São Paulo; Vasco
+2026-10-24,"Sat, Oct 24",TBD,Brazilian Serie A,Flamengo,Atlético-MG,,,,agendado,401841286,https://www.espn.com/soccer/match/_/gameId/401841286/atletico-mg-flamengo,ESPN,Flamengo
+2026-10-24,"Sat, Oct 24",TBD,Brazilian Serie A,Mirassol,São Paulo,,,,agendado,401841284,https://www.espn.com/soccer/match/_/gameId/401841284/sao-paulo-mirassol,ESPN,São Paulo
+2026-10-24,"Sat, Oct 24",TBD,Brazilian Serie A,Palmeiras,Red Bull Bragantino,,,,agendado,401841283,https://www.espn.com/soccer/match/_/gameId/401841283/red-bull-bragantino-palmeiras,ESPN,Palmeiras
+2026-10-24,"Sat, Oct 24",TBD,Brazilian Serie A,Santos,Bahia,,,,agendado,401841282,https://www.espn.com/soccer/match/_/gameId/401841282/bahia-santos,ESPN,Santos
+2026-10-24,"Sat, Oct 24",TBD,Brazilian Serie A,Vasco da Gama,Corinthians,,,,agendado,401841281,https://www.espn.com/soccer/match/_/gameId/401841281/corinthians-vasco-da-gama,ESPN,Corinthians; Vasco
+2026-10-28,"Wed, Oct 28",TBD,Brazilian Serie A,Bahia,São Paulo,,,,agendado,401841296,https://www.espn.com/soccer/match/_/gameId/401841296/sao-paulo-bahia,ESPN,São Paulo
+2026-10-28,"Wed, Oct 28",TBD,Brazilian Serie A,Corinthians,Mirassol,,,,agendado,401841295,https://www.espn.com/soccer/match/_/gameId/401841295/mirassol-corinthians,ESPN,Corinthians
+2026-10-28,"Wed, Oct 28",TBD,Brazilian Serie A,Santos,Palmeiras,,,,agendado,401841293,https://www.espn.com/soccer/match/_/gameId/401841293/palmeiras-santos,ESPN,Palmeiras; Santos
+2026-10-28,"Wed, Oct 28",TBD,Brazilian Serie A,Vasco da Gama,Flamengo,,,,agendado,401841292,https://www.espn.com/soccer/match/_/gameId/401841292/flamengo-vasco-da-gama,ESPN,Flamengo; Vasco
+2026-11-04,"Wed, Nov 4",TBD,Brazilian Serie A,Athletico Paranaense,Vasco da Gama,,,,agendado,401841306,https://www.espn.com/soccer/match/_/gameId/401841306/vasco-da-gama-athletico-paranaense,ESPN,Vasco
+2026-11-04,"Wed, Nov 4",TBD,Brazilian Serie A,Flamengo,Grêmio,,,,agendado,401841307,https://www.espn.com/soccer/match/_/gameId/401841307/gremio-flamengo,ESPN,Flamengo
+2026-11-04,"Wed, Nov 4",TBD,Brazilian Serie A,Palmeiras,Remo,,,,agendado,401841300,https://www.espn.com/soccer/match/_/gameId/401841300/remo-palmeiras,ESPN,Palmeiras
+2026-11-04,"Wed, Nov 4",TBD,Brazilian Serie A,Red Bull Bragantino,Santos,,,,agendado,401841299,https://www.espn.com/soccer/match/_/gameId/401841299/santos-red-bull-bragantino,ESPN,Santos
+2026-11-04,"Wed, Nov 4",TBD,Brazilian Serie A,São Paulo,Corinthians,,,,agendado,401841298,https://www.espn.com/soccer/match/_/gameId/401841298/corinthians-sao-paulo,ESPN,Corinthians; São Paulo
+2026-11-18,"Wed, Nov 18",TBD,Brazilian Serie A,Corinthians,Botafogo,,,,agendado,401841316,https://www.espn.com/soccer/match/_/gameId/401841316/botafogo-corinthians,ESPN,Corinthians
+2026-11-18,"Wed, Nov 18",TBD,Brazilian Serie A,Coritiba,Santos,,,,agendado,401841315,https://www.espn.com/soccer/match/_/gameId/401841315/santos-coritiba,ESPN,Santos
+2026-11-18,"Wed, Nov 18",TBD,Brazilian Serie A,Cruzeiro,Palmeiras,,,,agendado,401841314,https://www.espn.com/soccer/match/_/gameId/401841314/palmeiras-cruzeiro,ESPN,Palmeiras
+2026-11-18,"Wed, Nov 18",TBD,Brazilian Serie A,Flamengo,Athletico Paranaense,,,,agendado,401841313,https://www.espn.com/soccer/match/_/gameId/401841313/athletico-paranaense-flamengo,ESPN,Flamengo
+2026-11-18,"Wed, Nov 18",TBD,Brazilian Serie A,São Paulo,Fluminense,,,,agendado,401841309,https://www.espn.com/soccer/match/_/gameId/401841309/fluminense-sao-paulo,ESPN,São Paulo
+2026-11-18,"Wed, Nov 18",TBD,Brazilian Serie A,Vasco da Gama,Internacional,,,,agendado,401841308,https://www.espn.com/soccer/match/_/gameId/401841308/internacional-vasco-da-gama,ESPN,Vasco
+2026-11-21,"Sat, Nov 21",TBD,Brazilian Serie A,Atlético-MG,Corinthians,,,,agendado,401841319,https://www.espn.com/soccer/match/_/gameId/401841319/corinthians-atletico-mg,ESPN,Corinthians
+2026-11-21,"Sat, Nov 21",TBD,Brazilian Serie A,Botafogo,São Paulo,,,,agendado,401841326,https://www.espn.com/soccer/match/_/gameId/401841326/sao-paulo-botafogo,ESPN,São Paulo
+2026-11-21,"Sat, Nov 21",TBD,Brazilian Serie A,Palmeiras,Flamengo,,,,agendado,401841322,https://www.espn.com/soccer/match/_/gameId/401841322/flamengo-palmeiras,ESPN,Flamengo; Palmeiras
+2026-11-21,"Sat, Nov 21",TBD,Brazilian Serie A,Red Bull Bragantino,Vasco da Gama,,,,agendado,401841321,https://www.espn.com/soccer/match/_/gameId/401841321/vasco-da-gama-red-bull-bragantino,ESPN,Vasco
+2026-11-21,"Sat, Nov 21",TBD,Brazilian Serie A,Santos,Grêmio,,,,agendado,401841320,https://www.espn.com/soccer/match/_/gameId/401841320/gremio-santos,ESPN,Santos
+2026-11-28,"Sat, Nov 28",TBD,Brazilian Serie A,Atlético-MG,Vasco da Gama,,,,agendado,401841328,https://www.espn.com/soccer/match/_/gameId/401841328/vasco-da-gama-atletico-mg,ESPN,Vasco
+2026-11-28,"Sat, Nov 28",TBD,Brazilian Serie A,Chapecoense,Palmeiras,,,,agendado,401841335,https://www.espn.com/soccer/match/_/gameId/401841335/palmeiras-chapecoense,ESPN,Palmeiras
+2026-11-28,"Sat, Nov 28",TBD,Brazilian Serie A,Corinthians,Grêmio,,,,agendado,401841334,https://www.espn.com/soccer/match/_/gameId/401841334/gremio-corinthians,ESPN,Corinthians
+2026-11-28,"Sat, Nov 28",TBD,Brazilian Serie A,Coritiba,Flamengo,,,,agendado,401841333,https://www.espn.com/soccer/match/_/gameId/401841333/flamengo-coritiba,ESPN,Flamengo
+2026-11-28,"Sat, Nov 28",TBD,Brazilian Serie A,São Paulo,Remo,,,,agendado,401841329,https://www.espn.com/soccer/match/_/gameId/401841329/remo-sao-paulo,ESPN,São Paulo
+2026-11-28,"Sat, Nov 28",TBD,Brazilian Serie A,Vitória,Santos,,,,agendado,401841332,https://www.espn.com/soccer/match/_/gameId/401841332/santos-vitoria,ESPN,Santos
+2026-12-02,"Wed, Dec 2",TBD,Brazilian Serie A,Athletico Paranaense,São Paulo,,,,agendado,401841338,https://www.espn.com/soccer/match/_/gameId/401841338/sao-paulo-athletico-paranaense,ESPN,São Paulo
+2026-12-02,"Wed, Dec 2",TBD,Brazilian Serie A,Flamengo,Chapecoense,,,,agendado,401841341,https://www.espn.com/soccer/match/_/gameId/401841341/chapecoense-flamengo,ESPN,Flamengo
+2026-12-02,"Wed, Dec 2",TBD,Brazilian Serie A,Palmeiras,Coritiba,,,,agendado,401841343,https://www.espn.com/soccer/match/_/gameId/401841343/coritiba-palmeiras,ESPN,Palmeiras
+2026-12-02,"Wed, Dec 2",TBD,Brazilian Serie A,Remo,Corinthians,,,,agendado,401841345,https://www.espn.com/soccer/match/_/gameId/401841345/corinthians-remo,ESPN,Corinthians
+2026-12-02,"Wed, Dec 2",TBD,Brazilian Serie A,Santos,Botafogo,,,,agendado,401841346,https://www.espn.com/soccer/match/_/gameId/401841346/botafogo-santos,ESPN,Santos
+2026-12-02,"Wed, Dec 2",TBD,Brazilian Serie A,Vasco da Gama,Vitória,,,,agendado,401841342,https://www.espn.com/soccer/match/_/gameId/401841342/vitoria-vasco-da-gama,ESPN,Vasco
